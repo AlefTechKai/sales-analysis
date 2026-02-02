@@ -1,25 +1,29 @@
-# Sales Data Analysis
+## 📊 Sales Performance Dashboard
 
-## Objective
-Analyze sales data to identify revenue trends, top-performing products, and business opportunities.
+This project presents an interactive dashboard focused on sales performance analysis. 
+The dashboard provides insights into total sales, total profit, and profit margin (%), 
+supporting data-driven decision-making.
 
-## Dataset
-Retail sales dataset with information about products, regions, dates, and revenue.
+### 🔍 Key Analysis
+- Total Sales
+- Total Profit
+- Profit Margin (%)
+- Sales by City
+- Sales by Category
+- Sales by Region
+- Sales Trends by Year
+- Top-Selling Products Ranking
 
-## Tools Used
-- SQL (data analysis)
-- Power BI (dashboard)
-- Excel (data cleaning)
+### 🛠️ Tools & Technologies
+- Power BI
+- DAX
+- Data Modeling
+- Data Visualization
 
-## Analysis Performed
-- Monthly revenue trends
-- Top 10 products by revenue
-- Sales performance by region
+### 📌 Objective
+To analyze sales performance, evaluate profitability through profit margin (%), 
+identify top-performing regions and products, and support strategic business decisions 
+using clear and interactive visualizations.
 
-## Key Insights
-- Top 20% of products generate 65% of total revenue
-- Sales peak between November and December
-- Region X has the highest growth rate
-
-## Dashboard
-img.png
+![Sales Analytics Dashboard](Analytics_Sales.png)
+*Figure 1 – Sales analytics dashboard highlighting key KPIs, profitability, and top-selling products.*
